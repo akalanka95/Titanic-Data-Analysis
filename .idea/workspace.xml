@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31be850d-b0ce-4c57-b5ef-21c586589d50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XlKzRFGd4OmsKb2ZUUFVdIsP2P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Akalanka\Titanic" />
+      <recent name="C:\Users\Akalanka\Titanic\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainFile">
+    <configuration name="MainFile" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MainFile" />
+      <module name="Titanic analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFile2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MainFile2" />
+      <module name="Titanic analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainfile" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Mainfile" />
+      <module name="Olympics data maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainfile2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Mainfile2" />
+      <module name="Titanic analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFile" />
+        <item itemvalue="Application.MainFile2" />
+        <item itemvalue="Application.Mainfile" />
+        <item itemvalue="Application.Mainfile2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="bundledInspectionsSearchEnabled" value="true" />
+    <option name="bundledMigratorsSearchEnabled" value="true" />
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31be850d-b0ce-4c57-b5ef-21c586589d50" name="Default Changelist" comment="" />
+      <created>1581615502661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581615502661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Project_Structure" timestamp="1581617172906">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1581617172905" />
+    <state x="447" y="283" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1581617401629">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="447" y="283" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.738@0.0.1366.738" timestamp="1581617401629" />
+    <state x="462" y="124" key="FileChooserDialogImpl" timestamp="1581620167953">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1581620167953" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581678345633">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581678345633" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581678345633">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581678345633" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581678345632">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581678345632" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581678345633">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581678345633" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1581623592054">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581623592054" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1581623592054">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1581623592054" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1581623592053">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1581623592053" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1581623592054">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1581623592054" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1581667642072">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1581667642072" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1581646279383">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1581646279383" />
+    <state x="65" y="71" key="new project wizard" timestamp="1581667903927">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="71" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1581667903927" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="Olympics data maven" type="b2602c69:ProjectViewProjectNode" />
+        <item name="Olympics data maven" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
