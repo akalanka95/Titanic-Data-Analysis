@@ -1,44 +1,45 @@
-# Scala-project
-Spark Use Case – Olympics Data Analysis
-As one of the spark use case, we will discuss the analysis of Olympics dataset using Apache Spark in Scala,
+# Spark Use Case – Titanic Data Analysis
+There have been several questions put forward to understand the cause(s) of the tragedy; foremost among them is, what made it sink and even more intriguing, how can a 46,000-ton ship sink to the depth of 13,000 feet in a matter of 3 hours? This is a mind-boggling question indeed! #
 
-Olympics data set is a publicly available data. Using this dataset, we will evaluate some problem statements such as, finding the number of medals won by each country in swimming, finding the number of medals won by India etc.
-#
+This Titanic data is public-ally available and the titanic data set is described below under the heading Data Set Description.
+Using this dataset, we will perform some data analysis and will draw out some insights, like finding the average age of male and females who died in the Titanic, and the number of males and females who died in each compartment.
+
 **Data Set Description**
 
 The data set consists of the following fields:
 
-Athlete: Name of the athlete
+Column 1: PassengerId
 
-Age: Age of the athlete
+Column 2: Survived  (survived=0 & died=1)
 
-Country: The name of the country participating in Olympics
+Column 3: Pclass
 
-Year: The year in which Olympics is conducted
+Column 4: Name
 
-Closing Date: Closing date of Olympics
+Column 5: Sex
 
-Sport: Sports name
+Column 6: Age
 
-Gold Medals: No. of gold medals
+Column 7: SibSp
 
-Silver Medals: No. of silver medals
+Column 8: Parch
 
-Bronze Medals: No. of bronze medals
+Column 9: Ticket
 
-Total Medals: Total no. of medals
+Column 10: Fare
 
-**Dataset Link :** 
-https://drive.google.com/drive/folders/0ByJLBTmJojjzVGNsWmpUUUxTZDA
+Column 11: Cabin
+
+Column 12: Embarked
+
+
 
 **Problem Statement 1**
 
-Find the total number of medals won by each country in swimming.
+In this problem statement, we will find the average age of males and females who died in the Titanic tragedy.
 
 **Problem Statement 2**
 
-Find the number of medals that India won year wise.
+In this problem statement, we will find the number of people who died or survived in each class, along with their gender and age.
 
-**Problem Statement 3**
 
-Find the total number of medals won by each country.
